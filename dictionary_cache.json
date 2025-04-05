@@ -1,0 +1,643 @@
+[
+  {
+    "word": "able",
+    "pronunciation": {
+      "primary": "AY-buhl"
+    },
+    "grammatical_forms": {
+      "adjective": {
+        "comparative": "abler",
+        "superlative": "ablest"
+      }
+    },
+    "parts_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Having the power, skill, means, or opportunity to do something.",
+          "example": "She was able to finish the project on time.",
+          "usage_notes": "Often used with 'to' followed by a verb.",
+          "synonyms": ["capable", "competent"]
+        },
+        {
+          "definition": "Having considerable skill, proficiency, or intelligence.",
+          "example": "He is an able lawyer who wins most of his cases.",
+          "usage_notes": "Used to describe someone highly skilled in a particular area."
+        }
+      ]
+    },
+    "etymology": "Middle English: from Old French, from Latin habilis ‘handy, skillful’, from habere ‘to hold’.",
+    "usage_notes": {
+      "general": "The word 'able' is commonly used to describe capability or skill.",
+      "regional_variations": {
+        "UK": "No significant variations.",
+        "US": "No significant variations."
+      }
+    }
+  },
+  {
+    "word": "a",
+    "pronunciation": {
+      "primary": "ā",
+      "alternatives": ["ə"]
+    },
+    "grammatical_forms": {
+      "indefinite_article": {
+        "singular": "a",
+        "plural": "none"
+      }
+    },
+    "parts_of_speech": ["indefinite_article"],
+    "meanings": {
+      "indefinite_article": [
+        {
+          "definition": "Used before nouns to indicate a single, nonspecific item or individual.",
+          "example": "She found a book on the table.",
+          "usage_notes": "Used before consonant sounds; 'an' is used before vowel sounds.",
+          "countable": true
+        },
+        {
+          "definition": "Used to introduce someone or something for the first time.",
+          "example": "There was a loud noise outside.",
+          "usage_notes": "Often used in storytelling or descriptions.",
+          "countable": true
+        },
+        {
+          "definition": "Used to express a rate or ratio.",
+          "example": "He earns fifty dollars a day.",
+          "usage_notes": "Synonymous with 'per' in this context.",
+          "countable": false
+        },
+        {
+          "definition": "Used before a singular noun to represent an entire class or kind.",
+          "example": "A dog is a loyal animal.",
+          "usage_notes": "Generalizing function.",
+          "countable": false
+        },
+        {
+          "definition": "Used before a person's name to indicate someone unknown to the speaker.",
+          "example": "A Mr. Smith called for you.",
+          "usage_notes": "Often implies the speaker does not know the person well.",
+          "countable": false
+        }
+      ]
+    },
+    "etymology": "Middle English, from Old English 'ān' (one).",
+    "usage_notes": {
+      "general": "The indefinite article 'a' is one of the most commonly used words in English. It is used before singular, countable nouns that begin with consonant sounds.",
+      "regional_variations": {
+        "UK": "Pronunciation may sometimes lean towards 'ə' in casual speech.",
+        "US": "Pronunciation is typically 'ā' in most contexts."
+      },
+      "special_cases": "Before words starting with a vowel sound, 'an' is used instead (e.g., 'an apple')."
+    }
+  },
+  {
+    "word": "absolute",
+    "pronunciation": {
+      "primary": "AB-suh-loot",
+      "alternatives": ["ab-suh-LOOT"]
+    },
+    "grammatical_forms": {
+      "adjective": {
+        "positive": "absolute",
+        "comparative": "more absolute",
+        "superlative": "most absolute"
+      },
+      "noun": {
+        "singular": "absolute",
+        "plural": "absolutes"
+      }
+    },
+    "parts_of_speech": ["adjective", "noun"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Not qualified or diminished in any way; total.",
+          "example": "She had absolute confidence in her team.",
+          "usage_notes": "Often used to emphasize completeness or extremity.",
+          "countable": false
+        },
+        {
+          "definition": "Viewed or existing independently and not in relation to other things; not relative or comparative.",
+          "example": "Absolute moral standards must guide our decisions.",
+          "usage_notes": "Common in philosophical or scientific contexts.",
+          "countable": false
+        },
+        {
+          "definition": "Free from imperfection; complete; perfect.",
+          "example": "The artist sought absolute beauty in his work.",
+          "usage_notes": "Often used in aesthetic or ideal contexts.",
+          "countable": false
+        },
+        {
+          "definition": "Not mixed or adulterated; pure.",
+          "example": "He drank absolute alcohol in the lab.",
+          "usage_notes": "Technical usage in chemistry.",
+          "countable": false
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A value or principle that is regarded as universally valid or that may be viewed without relation to other things.",
+          "example": "The philosopher debated the nature of absolutes.",
+          "usage_notes": "Common in philosophical discussions.",
+          "countable": true
+        },
+        {
+          "definition": "Something that exists without being dependent on anything else.",
+          "example": "In mathematics, some concepts are treated as absolutes.",
+          "usage_notes": "Technical usage in various fields.",
+          "countable": true
+        }
+      ]
+    },
+    "etymology": "Late Middle English: from Latin absolutus 'freed, unrestricted', past participle of absolvere (see absolve).",
+    "usage_notes": {
+      "general": "The word 'absolute' is used across various disciplines including philosophy, science, and everyday language to denote completeness or perfection.",
+      "regional_variations": {
+        "UK": "Sometimes pronounced with emphasis on the second syllable.",
+        "US": "More commonly pronounced with emphasis on the first syllable."
+      }
+    }
+  },
+  {
+    "word": "above",
+    "pronunciation": {
+      "primary": "uh-BUHV"
+    },
+    "grammatical_forms": {
+      "preposition": {},
+      "adverb": {},
+      "adjective": {},
+      "noun": {
+        "singular": "above",
+        "plural": "aboves"
+      }
+    },
+    "parts_of_speech": ["preposition", "adverb", "adjective", "noun"],
+    "meanings": {
+      "preposition": [
+        {
+          "definition": "In or to a higher place than; over.",
+          "example": "The bird flew above the trees.",
+          "usage_notes": "Used to indicate physical position."
+        },
+        {
+          "definition": "Higher than in rank, position, or number.",
+          "example": "Her score was above average.",
+          "usage_notes": "Used in comparative contexts."
+        },
+        {
+          "definition": "Beyond the reach or scope of.",
+          "example": "His behavior is above reproach.",
+          "usage_notes": "Often used in abstract or moral contexts."
+        }
+      ],
+      "adverb": [
+        {
+          "definition": "In or to a higher place; overhead.",
+          "example": "The clouds above began to darken.",
+          "usage_notes": "Describes physical location."
+        },
+        {
+          "definition": "Higher on the same page or on a preceding page.",
+          "example": "As mentioned above, the results were inconclusive.",
+          "usage_notes": "Common in written texts."
+        },
+        {
+          "definition": "More in number, quantity, or degree.",
+          "example": "Temperatures rose above freezing.",
+          "usage_notes": "Used in quantitative comparisons."
+        }
+      ],
+      "adjective": [
+        {
+          "definition": "Said, written, or appearing earlier in the same text.",
+          "example": "Refer to the above diagram for clarification.",
+          "usage_notes": "Used in written or printed material."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "Something that is above or previously mentioned.",
+          "example": "The above suggests a need for further research.",
+          "usage_notes": "Formal or written usage.",
+          "countable": false
+        },
+        {
+          "definition": "A higher authority or power.",
+          "example": "They appealed to the above for a final decision.",
+          "usage_notes": "Often used in hierarchical contexts.",
+          "countable": false
+        }
+      ]
+    },
+    "etymology": "Middle English: from Old English abufan, from a- 'on' + bufan 'over' (from bi 'by' + ufan 'above').",
+    "usage_notes": {
+      "general": "The word 'above' is versatile and used in various contexts including physical position, hierarchy, and written texts.",
+      "regional_variations": {
+        "UK": "No significant variations.",
+        "US": "No significant variations."
+      }
+    }
+  },
+  {
+    "word": "about",
+    "pronunciation": {
+      "primary": "uh-BOUT",
+      "alternatives": ["uh-BOWT"]
+    },
+    "grammatical_forms": {
+      "preposition": {},
+      "adverb": {},
+      "adjective": {}
+    },
+    "parts_of_speech": ["preposition", "adverb", "adjective"],
+    "meanings": {
+      "preposition": [
+        {
+          "definition": "On the subject of; concerning.",
+          "example": "She was talking about her vacation.",
+          "usage_notes": "Commonly used to introduce the topic of discussion.",
+          "countable": false
+        },
+        {
+          "definition": "In the vicinity of; around.",
+          "example": "He looked about the room for his keys.",
+          "usage_notes": "Often used to indicate physical proximity.",
+          "countable": false
+        },
+        {
+          "definition": "Approximately; roughly.",
+          "example": "There were about fifty people at the party.",
+          "usage_notes": "Used to give an approximate number or quantity.",
+          "countable": false
+        }
+      ],
+      "adverb": [
+        {
+          "definition": "Almost; nearly.",
+          "example": "Dinner is about ready.",
+          "usage_notes": "Indicates that something is close to completion.",
+          "countable": false
+        },
+        {
+          "definition": "In rotation or succession; alternately.",
+          "example": "The children took turns about.",
+          "usage_notes": "Archaic or less common usage.",
+          "countable": false
+        },
+        {
+          "definition": "In the opposite direction.",
+          "example": "The ship turned about and headed back to port.",
+          "usage_notes": "Often used in nautical or directional contexts.",
+          "countable": false
+        }
+      ],
+      "adjective": [
+        {
+          "definition": "Moving around; active.",
+          "example": "He is up and about after his illness.",
+          "usage_notes": "Used to describe someone who is no longer confined.",
+          "countable": false
+        },
+        {
+          "definition": "Present in a place.",
+          "example": "There was no one about in the empty streets.",
+          "usage_notes": "Often used in negative constructions.",
+          "countable": false
+        }
+      ]
+    },
+    "etymology": "Old English abūtan, from on 'on' + būtan 'outside of' (from be 'by' + ūtan 'outside').",
+    "usage_notes": {
+      "general": "The word 'about' is highly versatile and used in various contexts including time, place, and topic.",
+      "regional_variations": {
+        "UK": "Sometimes pronounced with a more rounded vowel sound.",
+        "US": "More commonly pronounced with a flatter vowel sound."
+      }
+    }
+  },
+  {
+    "word": "accept",
+    "pronunciation": {
+      "primary": "ak-SEPT",
+      "alternatives": ["uhk-SEPT"]
+    },
+    "grammatical_forms": {
+      "verb": {
+        "infinitive": "accept",
+        "present": "accepts",
+        "past": "accepted",
+        "past_participle": "accepted",
+        "present_participle": "accepting"
+      }
+    },
+    "parts_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To consent to receive or undertake something offered.",
+          "example": "She accepted the job offer without hesitation.",
+          "usage_notes": "Often used in formal contexts like job offers or invitations.",
+          "transitive": true
+        },
+        {
+          "definition": "To regard favorably or with approval; to believe in or agree with.",
+          "example": "The scientific community accepted the new theory after extensive testing.",
+          "usage_notes": "Common in academic or professional settings.",
+          "transitive": true
+        },
+        {
+          "definition": "To take on a responsibility or obligation.",
+          "example": "He accepted the role of team leader.",
+          "usage_notes": "Used when assuming duties or positions.",
+          "transitive": true
+        },
+        {
+          "definition": "To endure or reconcile oneself to something unpleasant.",
+          "example": "She had to accept the fact that her project failed.",
+          "usage_notes": "Often used in emotional or difficult situations.",
+          "transitive": true
+        },
+        {
+          "definition": "To receive as adequate or valid.",
+          "example": "This store accepts credit cards.",
+          "usage_notes": "Common in commercial transactions.",
+          "transitive": true
+        }
+      ]
+    },
+    "etymology": "Late Middle English: from Latin acceptare, frequentative of accipere 'take something to oneself', from ad- 'to' + capere 'take'.",
+    "usage_notes": {
+      "general": "The verb 'accept' is widely used in both formal and informal contexts, ranging from everyday transactions to emotional reconciliation.",
+      "regional_variations": {
+        "UK": "No significant pronunciation differences",
+        "US": "No significant pronunciation differences"
+      }
+    }
+  },
+  {
+    "word": "across",
+    "pronunciation": {
+      "primary": "uh-KRAWS",
+      "alternatives": ["uh-KROS"]
+    },
+    "grammatical_forms": {
+      "preposition": {},
+      "adverb": {}
+    },
+    "parts_of_speech": ["preposition", "adverb"],
+    "meanings": {
+      "preposition": [
+        {
+          "definition": "From one side to the other of (a place, area, etc.).",
+          "example": "She walked across the street carefully.",
+          "usage_notes": "Used to indicate movement or position from one side to another."
+        },
+        {
+          "definition": "On the other side of.",
+          "example": "The library is just across the park.",
+          "usage_notes": "Indicates location relative to another point."
+        },
+        {
+          "definition": "Throughout (a region or area).",
+          "example": "The news spread quickly across the country.",
+          "usage_notes": "Used to describe widespread distribution or occurrence."
+        }
+      ],
+      "adverb": [
+        {
+          "definition": "From one side to the other side.",
+          "example": "The river was too wide to swim across.",
+          "usage_notes": "Describes movement or position between two points."
+        },
+        {
+          "definition": "On or to the opposite side.",
+          "example": "He looked across at his friend and smiled.",
+          "usage_notes": "Indicates direction or focus toward another point."
+        },
+        {
+          "definition": "In a position or arrangement that spans something.",
+          "example": "Lay the sticks across to form a bridge.",
+          "usage_notes": "Describes an orientation that covers or connects parts."
+        }
+      ]
+    },
+    "etymology": "Middle English: from a- (expressing motion) + cross, from Old Norse kross, from Old Irish cros, from Latin crux.",
+    "usage_notes": {
+      "general": "'Across' is commonly used in both spatial and metaphorical contexts to indicate traversal or position.",
+      "regional_variations": {
+        "UK": "Sometimes pronounced with a more rounded vowel sound.",
+        "US": "Typically pronounced with a flatter 'a' sound."
+      }
+    }
+  },
+  {
+    "word": "actual",
+    "pronunciation": {
+      "primary": "AK-choo-uhl",
+      "alternatives": ["AK-shoo-uhl"]
+    },
+    "grammatical_forms": {
+      "adjective": {
+        "base": "actual",
+        "comparative": "more actual",
+        "superlative": "most actual"
+      }
+    },
+    "parts_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Existing in fact; real.",
+          "example": "The actual cost was higher than the estimate.",
+          "usage_notes": "Used to emphasize that something is real or true, often contrasting with what was believed or expected.",
+          "synonyms": ["real", "true", "genuine"]
+        },
+        {
+          "definition": "Existing now; current.",
+          "example": "The actual situation is quite different from what was reported.",
+          "usage_notes": "Often used to refer to the present state of affairs.",
+          "synonyms": ["current", "present"]
+        },
+        {
+          "definition": "Used to emphasize the most important or basic part of something.",
+          "example": "The actual problem lies in the lack of communication.",
+          "usage_notes": "Used to focus attention on the core issue or reality.",
+          "synonyms": ["essential", "fundamental"]
+        }
+      ]
+    },
+    "etymology": "Late Middle English: from Old French actuel, from late Latin actualis, from actus ‘event, thing done’ (see act).",
+    "usage_notes": {
+      "general": "The word 'actual' is often used to stress reality or truth, especially when correcting a misconception or emphasizing a contrast.",
+      "regional_variations": {
+        "UK": "Sometimes pronounced with a softer 'ch' sound.",
+        "US": "More commonly pronounced with a harder 'ch' sound."
+      }
+    }
+  },
+  {
+    "word": "add",
+    "pronunciation": {
+      "primary": "ad",
+      "alternatives": []
+    },
+    "grammatical_forms": {
+      "verb": {
+        "infinitive": "add",
+        "present": "adds",
+        "past": "added",
+        "past_participle": "added",
+        "present_participle": "adding",
+        "third_person_singular": "adds"
+      },
+      "noun": {
+        "singular": "add",
+        "plural": "adds"
+      }
+    },
+    "parts_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To join or combine (numbers or amounts) to calculate a total.",
+          "example": "Add 5 and 7 to get 12.",
+          "usage_notes": "Common in mathematical contexts.",
+          "transitive": true
+        },
+        {
+          "definition": "To put something together with something else to increase the size, number, or amount.",
+          "example": "She added sugar to her coffee.",
+          "usage_notes": "Often used in cooking or everyday activities.",
+          "transitive": true
+        },
+        {
+          "definition": "To say or write further information.",
+          "example": "He added that the project would be completed by Friday.",
+          "usage_notes": "Used in speech or writing to provide additional details.",
+          "transitive": true
+        },
+        {
+          "definition": "To contribute to an existing situation or condition.",
+          "example": "The bright colors add to the festive atmosphere.",
+          "usage_notes": "Often used to describe enhancing qualities.",
+          "intransitive": true
+        }
+      ],
+      "noun": [
+        {
+          "definition": "An addition to something.",
+          "example": "The new feature is a welcome add to the software.",
+          "usage_notes": "Informal usage, more common in technical or business contexts.",
+          "countable": true
+        }
+      ]
+    },
+    "etymology": "Late Middle English: from Latin addere, from ad- 'to' + dare 'to give'.",
+    "usage_notes": {
+      "general": "The verb 'add' is widely used in both literal and figurative contexts, from mathematics to everyday speech.",
+      "regional_variations": {
+        "UK": "No significant variations.",
+        "US": "No significant variations."
+      }
+    }
+  },
+  {
+    "word": "act",
+    "pronunciation": {
+      "primary": "akt",
+      "alternatives": []
+    },
+    "grammatical_forms": {
+      "noun": {
+        "singular": "act",
+        "plural": "acts"
+      },
+      "verb": {
+        "infinitive": "act",
+        "present": "acts",
+        "past": "acted",
+        "past_participle": "acted",
+        "present_participle": "acting"
+      }
+    },
+    "parts_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A thing done; a deed.",
+          "example": "The act of kindness was greatly appreciated.",
+          "usage_notes": "Often used to describe a specific action or behavior.",
+          "countable": true
+        },
+        {
+          "definition": "A law passed by a legislative body.",
+          "example": "The Civil Rights Act of 1964 was a landmark legislation.",
+          "usage_notes": "Common in legal and governmental contexts.",
+          "countable": true
+        },
+        {
+          "definition": "A main division of a play, opera, or ballet.",
+          "example": "The play's final act was particularly dramatic.",
+          "usage_notes": "Used in theatrical contexts.",
+          "countable": true
+        },
+        {
+          "definition": "A pretense or false display.",
+          "example": "Her cheerful demeanor was just an act to hide her sadness.",
+          "usage_notes": "Often implies deception or insincerity.",
+          "countable": true
+        },
+        {
+          "definition": "A performance by a musician, comedian, or other entertainer.",
+          "example": "The opening act was a local band.",
+          "usage_notes": "Common in entertainment contexts.",
+          "countable": true
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To do something; take action.",
+          "example": "He acted quickly to prevent an accident.",
+          "usage_notes": "General term for performing an action.",
+          "transitive": false
+        },
+        {
+          "definition": "To behave in a particular way.",
+          "example": "She acted strangely after hearing the news.",
+          "usage_notes": "Often implies a change in behavior.",
+          "transitive": false
+        },
+        {
+          "definition": "To perform a role in a play, movie, or television show.",
+          "example": "He acted in several Broadway productions.",
+          "usage_notes": "Specific to performing arts.",
+          "transitive": false
+        },
+        {
+          "definition": "To pretend to be someone else.",
+          "example": "She acted the part of a concerned friend.",
+          "usage_notes": "Often implies deception or performance.",
+          "transitive": true
+        },
+        {
+          "definition": "To function or serve in a specific capacity.",
+          "example": "This substance acts as a catalyst.",
+          "usage_notes": "Used in technical or scientific contexts.",
+          "transitive": false
+        }
+      ]
+    },
+    "etymology": "Late Middle English: from Latin actus 'event, thing done', from agere 'do, act', reinforced by the French noun acte.",
+    "usage_notes": {
+      "general": "The word 'act' is versatile and used in various contexts including law, theater, and general behavior.",
+      "regional_variations": {
+        "UK": "No significant variations.",
+        "US": "No significant variations."
+      }
+    }
+  }
+]
