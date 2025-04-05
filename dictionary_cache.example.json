@@ -1,0 +1,275 @@
+[
+  {
+    "word": "a",
+    "pronunciation": {
+      "primary": "ā",
+      "alternatives": ["ə"]
+    },
+    "grammatical_forms": {
+      "indefinite_article": {
+        "singular": "a",
+        "plural": "none"
+      }
+    },
+    "parts_of_speech": ["indefinite_article"],
+    "meanings": {
+      "indefinite_article": [
+        {
+          "definition": "Used before nouns to indicate a single, nonspecific item or individual.",
+          "example": "She found a book on the table.",
+          "usage_notes": "Used before consonant sounds; 'an' is used before vowel sounds.",
+          "countable": true
+        },
+        {
+          "definition": "Used to introduce someone or something for the first time.",
+          "example": "There was a loud noise outside.",
+          "usage_notes": "Often used in storytelling or descriptions.",
+          "countable": true
+        },
+        {
+          "definition": "Used to express a rate or ratio.",
+          "example": "He earns fifty dollars a day.",
+          "usage_notes": "Synonymous with 'per' in this context.",
+          "countable": false
+        },
+        {
+          "definition": "Used before a singular noun to represent an entire class or kind.",
+          "example": "A dog is a loyal animal.",
+          "usage_notes": "Generalizing function.",
+          "countable": false
+        },
+        {
+          "definition": "Used before a person's name to indicate someone unknown to the speaker.",
+          "example": "A Mr. Smith called for you.",
+          "usage_notes": "Often implies the speaker does not know the person well.",
+          "countable": false
+        }
+      ]
+    },
+    "etymology": "Middle English, from Old English 'ān' (one).",
+    "usage_notes": {
+      "general": "The indefinite article 'a' is one of the most commonly used words in English. It is used before singular, countable nouns that begin with consonant sounds.",
+      "regional_variations": {
+        "UK": "Pronunciation may sometimes lean towards 'ə' in casual speech.",
+        "US": "Pronunciation is typically 'ā' in most contexts."
+      },
+      "special_cases": "Before words starting with a vowel sound, 'an' is used instead (e.g., 'an apple')."
+    }
+  },
+  {
+    "word": "able",
+    "pronunciation": {
+      "primary": "AY-buhl"
+    },
+    "grammatical_forms": {
+      "adjective": {
+        "positive": "able",
+        "comparative": "abler",
+        "superlative": "ablest"
+      }
+    },
+    "parts_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Having the power, skill, means, or opportunity to do something.",
+          "example": "She was able to finish the project on time.",
+          "usage_notes": "Often followed by an infinitive verb ('to' + base verb).",
+          "synonyms": ["capable", "competent"]
+        },
+        {
+          "definition": "Having considerable skill, proficiency, or intelligence.",
+          "example": "He is an able lawyer who wins most of his cases.",
+          "usage_notes": "Used to describe someone highly skilled in a particular area.",
+          "synonyms": ["skilled", "talented"]
+        }
+      ]
+    },
+    "etymology": "Middle English: from Old French, from Latin habilis 'handy, skillful', from habere 'to hold'.",
+    "usage_notes": {
+      "general": "The word 'able' is commonly used to describe capability or skill. It is often paired with 'to' + verb to indicate capacity.",
+      "regional_variations": {
+        "UK": "No significant variations.",
+        "US": "No significant variations."
+      }
+    }
+  },
+  {
+    "word": "above",
+    "pronunciation": {
+      "primary": "uh-BUHV",
+      "alternatives": []
+    },
+    "grammatical_forms": {
+      "preposition": {},
+      "adverb": {},
+      "adjective": {},
+      "noun": {
+        "singular": "above",
+        "plural": "aboves"
+      }
+    },
+    "parts_of_speech": ["preposition", "adverb", "adjective", "noun"],
+    "meanings": {
+      "preposition": [
+        {
+          "definition": "In or to a higher place than; over.",
+          "example": "The bird flew above the trees.",
+          "usage_notes": "Used to indicate physical position.",
+          "countable": false
+        },
+        {
+          "definition": "Higher in rank, status, or importance than.",
+          "example": "A captain is above a lieutenant in rank.",
+          "usage_notes": "Used in hierarchical contexts.",
+          "countable": false
+        },
+        {
+          "definition": "In excess of; more than.",
+          "example": "The temperature was above 30 degrees.",
+          "usage_notes": "Used with quantities.",
+          "countable": false
+        }
+      ],
+      "adverb": [
+        {
+          "definition": "In or to a higher place; overhead.",
+          "example": "The stars shone above.",
+          "usage_notes": "Often used without an object.",
+          "countable": false
+        },
+        {
+          "definition": "Higher on the same page or on a preceding page.",
+          "example": "As stated above, the results were inconclusive.",
+          "usage_notes": "Common in written texts.",
+          "countable": false
+        }
+      ],
+      "adjective": [
+        {
+          "definition": "Mentioned or appearing earlier in the same text.",
+          "example": "Refer to the above diagram for clarification.",
+          "usage_notes": "Used attributively.",
+          "countable": false
+        }
+      ],
+      "noun": [
+        {
+          "definition": "Something that is above or overhead.",
+          "example": "The above is a photograph of the building.",
+          "usage_notes": "Often used with 'the'.",
+          "countable": true
+        }
+      ]
+    },
+    "etymology": "Old English abufan, onbufan, from a- 'on' + bufan 'above' (from bi 'by' + ufan 'above').",
+    "usage_notes": {
+      "general": "'Above' is a versatile word used in spatial, hierarchical, and textual contexts.",
+      "regional_variations": {
+        "UK": "No significant variations.",
+        "US": "No significant variations."
+      }
+    }
+  },
+  {
+    "word": "absolute",
+    "pronunciation": {
+      "primary": "AB-suh-loot",
+      "alternatives": ["ab-suh-LOOT"]
+    },
+    "grammatical_forms": {
+      "adjective": {
+        "positive": "absolute",
+        "comparative": "more absolute",
+        "superlative": "most absolute"
+      },
+      "noun": {
+        "singular": "absolute",
+        "plural": "absolutes"
+      }
+    },
+    "parts_of_speech": ["adjective", "noun"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Not qualified or diminished in any way; total.",
+          "example": "She had absolute trust in her lawyer.",
+          "usage_notes": "Often used to emphasize completeness.",
+          "countable": false
+        },
+        {
+          "definition": "Viewed or existing independently and not in relation to other things; not relative or comparative.",
+          "example": "Absolute moral standards must guide our decisions.",
+          "usage_notes": "Common in philosophical or ethical contexts.",
+          "countable": false
+        },
+        {
+          "definition": "Free from imperfection; perfect or complete.",
+          "example": "The artist sought absolute beauty in his work.",
+          "usage_notes": "Often used in aesthetic or ideal contexts.",
+          "countable": false
+        },
+        {
+          "definition": "Not limited by restrictions or exceptions; unconditional.",
+          "example": "The dictator wielded absolute power.",
+          "usage_notes": "Frequently used in political or authoritative contexts.",
+          "countable": false
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A value or principle that is regarded as universally valid or may be viewed without relation to other things.",
+          "example": "Some philosophers argue that good and evil are absolutes.",
+          "usage_notes": "Common in philosophical or theoretical discussions.",
+          "countable": true
+        },
+        {
+          "definition": "A substance that is free from impurities or adulterants.",
+          "example": "The chemist isolated the absolute from the compound.",
+          "usage_notes": "Technical term in chemistry or perfumery.",
+          "countable": true
+        }
+      ]
+    },
+    "etymology": "Late Middle English: from Latin absolutus 'freed, unrestricted', past participle of absolvere (see absolve).",
+    "usage_notes": {
+      "general": "The word 'absolute' is versatile, used in contexts ranging from philosophy to everyday emphasis.",
+      "regional_variations": {
+        "UK": "Sometimes pronounced with a stronger emphasis on the second syllable.",
+        "US": "More commonly pronounced with primary stress on the first syllable."
+      }
+    }
+  },
+  {
+    "word": "about",
+    "pronunciation": {
+      "primary": "uh-BOUT",
+      "alternatives": ["uh-BOWT"]
+    },
+    "grammatical_forms": {
+      "preposition": {},
+      "adverb": {},
+      "adjective": {}
+    },
+    "parts_of_speech": ["preposition", "adverb", "adjective"],
+    "meanings": {
+      "preposition": [
+        {
+          "definition": "On the subject of; concerning.",
+          "example": "She told me about her trip to Japan.",
+          "usage_notes": "Commonly used to introduce topics in conversation or writing."
+        },
+        {
+          "definition": "In the vicinity of; near to.",
+          "example": "He lives about five miles from here.",
+          "usage_notes": "Often used to give approximate locations or distances."
+        },
+        {
+          "definition": "Engaged in; occupied with.",
+          "example": "What are you about today?",
+          "usage_notes": "Somewhat archaic or formal usage."
+        }
+      ]
+    }
+  }
+]
