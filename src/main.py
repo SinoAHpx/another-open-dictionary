@@ -1,6 +1,8 @@
-def main():
-    print("Hello from another-open-dictionary!")
+from fastapi import FastAPI
 
+app = FastAPI()
 
-if __name__ == "__main__":
-    main()
+@app.get("/query")
+async def read_query(word: str = "default_word"):
+    # In a real application, you would look up the word in a dictionary here.
+    return {"word": word, "definition": f"Definition for {word}"}
