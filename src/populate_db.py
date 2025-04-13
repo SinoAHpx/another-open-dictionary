@@ -68,7 +68,7 @@ def populate_data(conn, data_file='dictionary_cache.json'):
                 # Use psycopg2.extras.Json to handle JSONB insertion correctly
                 cur.execute(insert_sql, (word, Json(entry)))
 
-                if (i + 1) % 100 == 0 or (i + 1) == total_words:
+                if (i + 1) % 1000 == 0 or (i + 1) == total_words:
                     print(f"Processed {i + 1}/{total_words} words...")
 
             except Exception as e:
@@ -123,16 +123,13 @@ if __name__ == "__main__":
         print("To populate the database (run only if needed):")
         print("  Set POPULATE_DB=true environment variable and run: python src/populate_db.py")
 
-        # Optional: Add logic to run population based on an env var
-        if os.getenv("POPULATE_DB", "false").lower() == "true":
-            print("\nPOPULATE_DB environment variable set to true. Running population...")
-            conn = get_db_connection()
-            if conn:
-                try:
-                    create_table(conn)
-                    populate_data(conn)
-                except Exception as e:
-                    print(f"An unexpected error occurred during population: {e}")
-                finally:
-                    conn.close()
-                    print("Database connection closed after population.")
+        conn = get_db_connection()
+        if conn:
+            try:
+                create_table(conn)
+                populate_data(conn)
+            except Exception as e:
+                print(f"An unexpected error occurred during population: {e}")
+            finally:
+                conn.close()
+                print("Database connection closed after population.")

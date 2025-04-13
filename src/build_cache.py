@@ -1,3 +1,4 @@
+import json
 import os
 from dotenv import load_dotenv
 from openai import OpenAI, APIError, RateLimitError
@@ -130,7 +131,7 @@ You are a comprehensive English dictionar. Your sole purpose is to provide detai
       "US": "More commonly pronounced with a shorter 'o' sound."
     }
   }
-}
+} 
 ```
 
 **Special Instructions:**
@@ -172,13 +173,31 @@ def process_word(word):
             time.sleep(retry_delay)
             retry_delay *= 2  # Exponential backoff
 
-def main():
-    # Read all words first
+def filter():
     with open('common_words.txt', 'r') as f:
+        words = [line.strip() for line in f if line.strip()]
+    with open('dictionary_cache.json') as j:
+        obj = json.load(j)
+        print(f'there are total: {len(obj)} words')
+        actual_words = []
+        for i in obj:
+            actual_words.append(i['word'])
+
+    different_items = set(words) - set(actual_words)
+    print(different_items)
+    print(len(different_items))
+    with open('different_items.txt', 'w') as diff_file:
+        for item in different_items:
+            diff_file.write(f"{item}\n")
+
+def main():
+    
+    # Read all words first
+    with open('different_items.txt', 'r') as f:
         words = [line.strip() for line in f if line.strip()]
     
     # Process in parallel batches
-    batch_size = 10  # Adjust based on API rate limits and system resources
+    batch_size = 20  # Adjust based on API rate limits and system resources
     with ThreadPoolExecutor(max_workers=5) as executor:  # Adjust max_workers as needed
         futures = []
         for i in range(0, len(words), batch_size):
@@ -191,4 +210,5 @@ def main():
                 print(f'Completed: {result}')
 
 if __name__ == '__main__':
-    main()
+    # main()
+    filter()
